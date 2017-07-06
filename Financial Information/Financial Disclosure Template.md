@@ -1,5 +1,4 @@
-#Financial Disclosure
-#2015-06
+# Financial Disclosure [2017-07]
 
 > This will serve as a template for upcoming months. This is not a complete document and needs to be reviewed for accuracy. ^MD
 
