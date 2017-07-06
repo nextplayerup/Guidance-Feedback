@@ -1,10 +1,10 @@
-#Ethics and Standards
+# Ethics and Standards
 
 > Our full Ethics policy is not completed yet - please accept this rough draft in the mean-time. Any questions regarding this is welcome and we would like to encourage you to open an issue on GitHub to address this document.
 
 > We need an outline of topics that are important to the community. ^NV
 
-##Conflicts of Interest
+## Conflicts of Interest
 
 > Very rough start - needs to be reworked. May not be important. Too specific to curators. Some of this blurs the line between a full disclosure policy and an internal policy of how we handle our staff. ^MD
 
